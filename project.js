@@ -96,6 +96,3 @@ function addTask(){
    })
   input.value=""
 }
-shayad kabhi na keh sku mai tumko kahe bina shamaj to tum shayad jo tum ha rehe ge hum nhi joooooooooooooo tum na hooooo rhege ham nhiii
-na chihye kuch tum se zyada tumse kam nhiiiiiiii              gar tum sath ho ya na ho kya farak  hai be dard thi zindagi de dard hai 
-mere narzo me tere sapne tere sapno me narazi mujhe lagta hai ke baate dil ki hote laffazo ki dhodega ...
